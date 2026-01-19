@@ -330,7 +330,7 @@ input:checked + label:after { left: calc(100% - 0.1875rem); transform: translate
     opacity: 0;
     transform: translateX(-20rem);
     transition: opacity 0.8s ease-out, transform 0.8s ease-out;
-    padding: clamp(4rem, 10vh, 6rem) 10%;
+    padding: clamp(3rem, 7vh, 3rem) 10%;
     background-color: var(--bg-dark);
 }
 
@@ -345,7 +345,7 @@ input:checked + label:after { left: calc(100% - 0.1875rem); transform: translate
     font-weight: 700;
     text-align: center;
     margin-bottom: 1rem;
-    margin-top: clamp(2rem, 10vh, 5rem);
+    margin-top: clamp(1rem, 8vh, 3rem);
     justify-content: center;
     align-items: center;
 }
