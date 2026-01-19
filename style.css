@@ -657,11 +657,3 @@ input:checked + label:after { left: calc(100% - 0.1875rem); transform: translate
 }
 
 
-/*Credits Section */
-.Credits {
-    margin-top: 2rem;
-    margin-bottom: -0.5rem;
-    font-size: 0.1rem;
-    color: var(--text-gray);
-    margin-right: 87%;
-}
