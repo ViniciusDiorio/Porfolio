@@ -221,7 +221,7 @@ body {
 
 .cta-buttons { 
     display: flex; 
-    gap: 1.5rem;
+    gap: 1.1rem;
     flex-wrap: wrap;
 } 
 
@@ -656,4 +656,5 @@ input:checked + label:after { left: calc(100% - 0.1875rem); transform: translate
     font-size: 0.6rem;
     color: var(--text-gray);
     margin-right: 87%;
+
 }
